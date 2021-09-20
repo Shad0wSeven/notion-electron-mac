@@ -26,7 +26,7 @@ Notion’s official application for Mac takes up so much battery life, that I wa
 
 **MAC ONLY FOR NOW**
 
-Download from [here](https://github.com/Shad0wSeven/notion-electron-mac/releases/tag/0.1).
+Download [this](https://github.com/Shad0wSeven/notion-electron-mac/releases/download/0.1/Notion_OSX.zip).
 
 Unzip and drag to the `/Applications` folder.
 
