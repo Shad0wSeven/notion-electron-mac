@@ -1,0 +1,25 @@
+/* site.css */
+
+
+.notion-topbar {
+	-webkit-app-region: drag;
+}
+
+.notion-topbar {
+	padding-left: 60px;
+}
+
+.notion-topbar > div {
+	margin-top: -3px;
+	/* background-color: red; */
+}
+
+.notion-help-button {
+	display: none;
+	visibility: hidden;
+}
+
+
+.notion-sidebar-switcher {
+	margin-top: 30px;
+}
