@@ -24,7 +24,7 @@ Notion’s official application for Mac takes up so much battery life, that I wa
 
 ## How to install from App
 
-**MAC ONLY FOR NOW**
+**MAC ONLY FOR NOW** [ACTUALLY THIS IS VERY OUTDATED USE THE BUILD PART TO GET A NEW VERSION OF NATIVEFIER!]
 
 Download [this](https://github.com/Shad0wSeven/notion-electron-mac/releases/download/0.1/Notion_OSX.zip).
 
